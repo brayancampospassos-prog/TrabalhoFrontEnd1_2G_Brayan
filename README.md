@@ -23,7 +23,7 @@
 ---
 ## Links:
 Planilha corrigida (revisada e completa):
-* ✅**[Planilha corrigida "Tabela_2G_Brayan_FrontEnd"](https://docs.google.com/spreadsheets/d/1zWUaGsr7g3yu7yE6X3omdbUk3TahvVrW9QK0L1Yufa0/edit?usp=sharing)**
+* ✅ **[Planilha corrigida "Tabela_2G_Brayan_FrontEnd"](https://docs.google.com/spreadsheets/d/1zWUaGsr7g3yu7yE6X3omdbUk3TahvVrW9QK0L1Yufa0/edit?usp=sharing)**
 
 ---
 Planilha original (totalmente quebrado e incorreto):
