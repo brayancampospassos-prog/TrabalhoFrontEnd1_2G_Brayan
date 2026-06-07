@@ -1,4 +1,4 @@
-# FrontEndLaSalle
+# TrabalhoFrontEnd1_2G_Brayan
 # Análise e Correção de Dados de planilha
 
 **Conclusões sobre a correção:** A segunda tabela (`Tabela_2G_Brayan_FrontEnd`) é a versão corrigida, com todos os dados corrigidos.
