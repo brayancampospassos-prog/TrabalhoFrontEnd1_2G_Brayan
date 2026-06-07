@@ -32,3 +32,7 @@ Planilha original (totalmente quebrado e incorreto):
 
 ## Nota:
 Esse trabalho não teve **NENHUM** uso de inteligencia artificial, **concluções e ações feitas na planilha foram pensadas pelo grupo**, Eu brayan jhonny fiz um modulo de "Planilhas" em um curso, oque me da certo conhecimento da formatação e logica e visual de uma planilha, além de um pensamento critico e lógico sobre os dados, **Sobre o github** eu também ja usei ele as vezes pra ver alguns projetos públicos. já esse estilo de formatação que voce esta vendo nesse repositorio eu também tenho conhecimento, ele é extremamente semelheate a formatação de texto do discord, ele utiliza "#" "*" pra alterar o visual do texto. para fazer a tabela foi um pouco mais dificil, pesquisei na internet e vi alguns videos de como se faz esse tipo de tabela, foi bem facil de fazer.
+---
+## Trabalho feito por:
+* Brayan Jhonny 2G (Noturno)
+* Maria 2G (noturno)
